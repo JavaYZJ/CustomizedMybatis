@@ -1,2 +1,2 @@
 # CustomizedMybatis
-基于mybatis源码思想，手写自定义mybatis实现
+基于mybatis源码设计思想，自定义手写mybatis框架
